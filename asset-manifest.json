@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/CreaditSystem/static/css/main.fac25765.css",
+    "main.js": "/CreaditSystem/static/js/main.7f808d77.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/CreaditSystem/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/CreaditSystem/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/CreaditSystem/index.html",
+    "main.fac25765.css.map": "/CreaditSystem/static/css/main.fac25765.css.map",
+    "main.7f808d77.js.map": "/CreaditSystem/static/js/main.7f808d77.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/CreaditSystem/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fac25765.css",
+    "static/js/main.7f808d77.js"
+  ]
+}
